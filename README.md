@@ -214,12 +214,12 @@ pt-nusantara-digitalindo/
 │   ├── tracert-hq-to-surabaya.png
 │   └── tracert-hq-to-makassar.png
 └── configs/
-    ├── R1-HQ.txt
-    ├── Internet.txt
-    ├── R2-Surabaya.txt
-    └── R3-Makassar.txt
+│   ├── R1-HQ.txt
+│   ├── Internet.txt
+│   ├── R2-Surabaya.txt
+│   └── R3-Makassar.txt
 ├── topology_pkt/
-    ├── topology.pkt
+    └── topology.pkt
 ```
 
 ---
