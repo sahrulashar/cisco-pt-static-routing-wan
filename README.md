@@ -227,4 +227,4 @@ pt-nusantara-digitalindo/
 **Sahrul Ashar**  
 IT Infrastructure & Network Enthusiast  
 S1 Teknik Informatika — Universitas Lamappapoleonro  
-[GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/)
+[GitHub](https://github.com/sahrulashar) | [LinkedIn](https://www.linkedin.com/in/sahrul-ashar-94909b2a7/)
